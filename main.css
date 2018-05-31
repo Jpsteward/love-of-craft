@@ -1,0 +1,39 @@
+ .head{
+        border-bottom: black solid 1px;
+        background-color: white;
+        opacity: 0.9;
+        border-radius: 15px;
+        margin:5px;	
+      }
+
+   .sale{
+          width: 50px;
+          height:50px; 
+        }   
+   .header{
+           border:black solid 1px;
+           background-color: white;
+           opacity: 0.8;
+           border-radius: 15px ;
+          }
+  #back{
+  	    background-color:#A92B4F ;
+       } 
+
+  .nav{
+
+       } 
+  
+   .pic{
+       	height: 350px;
+        width: 500px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        } 
+
+  .pic1{
+        height: 150px;
+        width: 250px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+       }            
